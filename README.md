@@ -5,7 +5,6 @@ Front-End Developer @ Mathison Projects
 ---------------------------------------
 
 *   🌍  I'm based in Appleton, WI
-*   🖥️  See my portfolio at [paytonpierce.dev](http://paytonpierce.dev)
 *   ✉️  You can contact me at [paytontaylor96@gmail.com](mailto:paytontaylor96@gmail.com)
 *   🧠  I'm learning Node.js & Express
 
