@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js & Express**
 
-- 👨‍💻 You can find my portfolio at [paytonpierce.dev](paytonpierce.dev)
+- 👨‍💻 You can find my portfolio at [paytonpierce.dev](http://paytonpierce.dev)
 
 - 📫 How to reach me **paytontaylor96@gmail.com**
 
