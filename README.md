@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Payton Pierce</h1>
-<h3 align="center">Front-End @ Mathison Projects</h3>
+<h3 align="center">Front-End Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/paytoncodes" target="blank"><img src="https://img.shields.io/twitter/follow/paytoncodes?logo=twitter&style=for-the-badge" alt="paytoncodes" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paytonpiercedev" target="blank"><img src="https://img.shields.io/twitter/follow/paytoncodes?logo=twitter&style=for-the-badge" alt="paytonpiercedev" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js & Express**
 
