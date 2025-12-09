@@ -9,7 +9,7 @@ I'm a frontend engineer @ [Lingo](https://www.lingoapp.com/).
 * ✉️  You can contact me at [paytontaylor96@gmail.com](mailto:paytontaylor96@gmail.com)
 * 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on projects that need a UI refresh!
-* ⚡  I have 15 chickens 🐔
+* ⚡  I have 8 chickens 🐔
 
 ### Skills
 
